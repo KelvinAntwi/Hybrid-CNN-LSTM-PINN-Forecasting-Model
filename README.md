@@ -175,5 +175,6 @@ This project was conducted under the supervision of Mr. K.B. Owusu, focusing on 
   ## Citation
 
 Antwi, N. K. (2026). *Physics-Informed CNN–LSTM for Solar PV Energy Forecasting*. GitHub repository.
+https://github.com/KelvinAntwi/Hybrid-CNN-LSTM-PINN-Forecasting-Model/tree/main
 
 This repository contains a supervised research implementation comparing conventional and physics-informed CNN–LSTM models for daily energy forecasting in land-based and floating solar PV systems.
